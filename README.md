@@ -139,12 +139,5 @@ cap.release()
 cv2.destroyAllWindows()
 ```
 
----
 
-## 📌 授權
-
-本專案基於 **MIT 授權**，可自由使用與修改。
-
-👤 **作者**: 你的名字
-📧 **聯絡方式**: your-email@example.com
 🌟 **如果覺得不錯，請幫忙按顆星⭐！**
